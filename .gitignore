@@ -1,0 +1,9 @@
+# Build output (publish via GitHub Releases)
+*.exe
+*.pdb
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
